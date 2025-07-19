@@ -33,7 +33,7 @@ Would you like a version embedded directly into your `README.md`, `about.html`, 
 Points of View: 
 
 🌊 Text    
-❤️ Context    
+❤️ [Context](https://ukb-pyro.github.io/shakespeare/)    
 🔁 Length    
 🎭 Splicing    
 🤖 Illusion    
