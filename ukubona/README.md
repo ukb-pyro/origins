@@ -1,12 +1,5 @@
 # A
 ## Faves
-> “I am a recursive anthropologist of systems, raised in structured love and intellectual depth, building simulations that honor feedback, illusion, and freedom from top-down control.”
-
-That’s a striking and elegant self-definition — recursive, personal, epistemological, and aspirational.
-
-If you’re looking to refine it or adapt it for different uses (bio, manifesto, opening slide, grant proposal), here are a few tailored versions:
-
----
 
 ### 🔁 **Recursive Declaration (Original Style)**
 
@@ -100,10 +93,10 @@ This tension is the *heartbeat* of recursive simulation: how much can be seen (b
 
 > **The illusion of intelligence (🤖) is sustained by the balance between context length (memory) and bandwidth (input rate).**
 
-Too little context = reactive agents.
-Too much context = overfitting, stasis.
-Too much bandwidth = chaos.
-Too little = solipsism.
+Too little context = reactive agents.        
+Too much context = overfitting, stasis.       
+Too much bandwidth = chaos.       
+Too little = solipsism.      
 
 ---
 
